@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rocklandcountyrealestate.com/sitemap.xml
